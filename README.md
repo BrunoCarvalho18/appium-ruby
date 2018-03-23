@@ -23,4 +23,4 @@ apresentará erros.
 Boa Sorte :)
 
 
-![alt_text](https://http://matera.com/br/wp-content/uploads/2015/10/appium_logo-538x294.jpg)
+![alt_text](https://matera.com/br/wp-content/uploads/2015/10/appium_logo-538x294.jpg)
