@@ -15,7 +15,7 @@ ANDROID_HOME e JAVA_HOME, de acordo com o caminho da sua JDK e SDK.
 
 -Execute o Appium e clique no ícone Start Server v1.7.1
 
--Quando o "Servidor" appium estiver executado note que ele enviará comandos de conexões com API e com os Drivers.
+-Quando o "Servidor" Appium estiver executado note que ele enviará comandos de conexões com API e com os Drivers.
 
 -Caso tenha um Cmd ou o Cmder, na pasta que o projeto estiver clonado, execute o comando Cucumber, se o Appium não estiver iniciado ele
 apresentará erros.
