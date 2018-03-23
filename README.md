@@ -3,7 +3,9 @@
 -Para executar no seu computador.
 
 -Git Clone https://url.
+
 -Ter o Appium instalado em sua máquina, caso não tenha baixe em http://appium.io/
+
 -Ter as variáveis de ambiente configuradas no seu computador, caso seja Windows.O caminho para configurar as variáveis de ambiente é 
 Painel de Controle > Sistema e Segurança > Sistema > Configurações Avançadas > Clique no ícone Variáveis de Ambiente >  Adicione as variáveis 
 ANDROID_HOME e JAVA_HOME, de acordo com o caminho da sua JDK e SDK.
