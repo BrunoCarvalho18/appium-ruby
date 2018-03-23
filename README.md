@@ -21,3 +21,6 @@ ANDROID_HOME e JAVA_HOME, de acordo com o caminho da sua JDK e SDK.
 apresentará erros.
 
 Boa Sorte :)
+
+
+![alt_text](https://http://matera.com/br/wp-content/uploads/2015/10/appium_logo-538x294.jpg)
