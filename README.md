@@ -1,8 +1,8 @@
 # Exemplo de POC Appium com Ruby Android.
 
->Para executar no seu computador.
+## Para executar no seu computador.
 
-- Git clone https://url.
+> Git clone https://url.
 
 - Ter o Appium instalado em sua máquina, caso não tenha baixe em http://appium.io/
 
