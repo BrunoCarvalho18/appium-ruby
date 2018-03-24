@@ -1,6 +1,6 @@
 # Exemplo de POC Appium com Ruby Android.
 
-$-Para executar no seu computador.
+-Para executar no seu computador.
 
 -Git Clone https://url.
 
