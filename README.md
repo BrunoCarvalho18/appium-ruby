@@ -3,7 +3,7 @@
 ## Para executar no seu computador.
 
 
-> Git clone https://url.
+- Execute o comando > Git clone https://url.
 
 
 - Ter o Appium instalado em sua máquina, caso não tenha baixe em http://appium.io/
