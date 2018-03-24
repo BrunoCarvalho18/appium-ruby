@@ -1,4 +1,4 @@
-### Exemplo de POC Appium com Ruby Android.
+# Exemplo de POC Appium com Ruby Android.
 
 -Para executar no seu computador.
 
