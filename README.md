@@ -20,7 +20,7 @@ ANDROID_HOME e JAVA_HOME, de acordo com o caminho da sua JDK e SDK.
 - Caso tenha um Cmd ou o Cmder, na pasta que o projeto estiver clonado, execute o comando Cucumber, se o Appium não estiver iniciado ele
 apresentará erros.
 
- Boa Sorte :)
+ Boa Sorte :+1:
 
 
 ![alt_text](https://matera.com/br/wp-content/uploads/2015/10/appium_logo-538x294.jpg)
