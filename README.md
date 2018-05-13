@@ -6,7 +6,7 @@
 - Execute o comando:
 
 
-  > Git clone https://url.
+  > Git clone https://github.com/BrunoCarvalho18/Appium-Ruby.git.
 
 
 
