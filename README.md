@@ -1,6 +1,6 @@
 # Exemplo de POC Appium com Ruby Android.
 
-## instalando a SDK	no MAC:
+## Instalando a SDK	no MAC:
 
 > $ brew	install	android-sdk		
 
