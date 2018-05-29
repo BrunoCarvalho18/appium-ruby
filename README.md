@@ -1,5 +1,14 @@
 # Exemplo de POC Appium com Ruby Android.
 
+## Configurando variáveis de ambiente no MAC:
+
+> $	vim	.bash_profile		No	vim	teclar	(I)		
+> Colar	essas	duas	variáveis		
+> $	export	ANDROID_HOME=/Users/{usuario}/Library/An droid/sdk/		
+> $	export	PATH=$PATH:$ANDROID_HOME/platform-tools		
+> Teclar	(ZZ)	para	sair	e	salvar		$	source	~/.bash_profile
+
+
 ## Instalar o Java e configurando no windows:
 
 - Veja o post do DevMedia (https://www.devmedia.com.br/preparacao-do-ambiente-para-desenvolvimento-em-java/25188)   :+1:
@@ -10,7 +19,6 @@
 
 ## Para executar no seu computador.
 
-
 - Execute o comando:
 
 > Git clone https://github.com/BrunoCarvalho18/Appium-Ruby.git.
@@ -19,13 +27,14 @@
 
 - Instalar com o executável do Appium, caso seja windows.
 
-- Se você tiver o node ou o NPM:
+- Se você tiver o node ou o NPM, no Mac ou no Linux:
 
 > npm install -g appium 
 
 - Pelo mac você poderá instalar o node pelo brew: 
 
-> brew install node
+> brew install node.
+
 
 - Ter as variáveis de ambiente configuradas no seu computador, caso seja Windows.
 
