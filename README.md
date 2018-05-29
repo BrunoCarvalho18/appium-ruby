@@ -1,6 +1,12 @@
 # Exemplo de POC Appium com Ruby Android.
 
-## Configurando variáveis de ambiente no MAC:
+## instalando a JDK	
+
+> $ brew	install	android-sdk		
+> $	brew	install	android-platform-tools
+
+
+## Configurando as variáveis de ambiente no MAC:
 
 > $	vim	.bash_profile		No	vim	teclar	(I)		
 
