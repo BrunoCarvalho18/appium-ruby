@@ -10,7 +10,9 @@
 
 > $	export	PATH=$PATH:$ANDROID_HOME/platform-tools		
 
-> Teclar	(ZZ)	para	sair	e	salvar		$	source	~/.bash_profile
+- Teclar	(ZZ)	para	sair	e	salvar:	
+
+> $	source	~/.bash_profile
 
 
 ## Instalar o Java e configurando no windows:
