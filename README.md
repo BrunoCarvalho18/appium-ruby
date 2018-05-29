@@ -9,7 +9,7 @@
 
 - Ter o Appium instalado em sua máquina, caso não tenha baixe em http://appium.io/
 
-- Instalar com o executável do Appium.
+- Instalar com o executável do Appium, caso seja windows.
 
 - Se você tiver o node ou o NPM:
 
