@@ -1,5 +1,9 @@
 # Exemplo de POC Appium com Ruby Android.
 
+## Baixando a JDK no MAC e no Windows:
+
+> Veja os executáveis neste site: (http://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html)
+
 ## Instalando a SDK	no MAC:
 
 > $ brew	install	android-sdk		
