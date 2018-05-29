@@ -71,6 +71,8 @@ Painel de Controle > Sistema e Segurança > Sistema > Configurações Avançadas
 - Caso tenha um Cmd ou o Cmder, na pasta que o projeto estiver clonado, execute o comando Cucumber, se o Appium não estiver iniciado ele
 apresentará erros.
 
+- Aprendendo um pouco mais sobre Appium: (http://appium.io/docs/en/commands/mobile-command/), neste link você pode 
+selecionar a linguagem.
  
  Boa Sorte :+1:
 
