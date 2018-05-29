@@ -1,17 +1,17 @@
 # Exemplo de POC Appium com Ruby Android.
 
-## 1.Baixando a JDK no MAC e no Windows:
+## 1. Baixando a JDK no MAC e no Windows:
 
 - Veja os executáveis neste site: (http://www.oracle.com/technetwork/pt/java/javase/downloads/jdk8-downloads-2133151.html)
 
-## 2.Instalando a SDK	no MAC:
+## 2. Instalando a SDK	no MAC:
 
 > $ brew	install	android-sdk		
 
 > $	brew	install	android-platform-tools
 
 
-## 3.Configurando as variáveis de ambiente no MAC:
+## 3. Configurando as variáveis de ambiente no MAC:
 
 > $	vim	.bash_profile		No	vim	teclar	(I)		
 
@@ -26,19 +26,19 @@
 > $	source	~/.bash_profile
 
 
-## 4.Instalar o Java e configurando no windows:
+## 4. Instalar o Java e configurando no windows:
 
 - Veja o post do DevMedia (https://www.devmedia.com.br/preparacao-do-ambiente-para-desenvolvimento-em-java/25188)   :+1:
 
-## 5.Instalar o Android Studio e configurando em todos os sistemas Operacionais:
+## 5. Instalar o Android Studio e configurando em todos os sistemas Operacionais:
 
 - Veja o vídeo neste link: (https://developer.android.com/studio/install?hl=pt-br)
 
-## 6.Configurando os simuladores no seu Android Studio:
+## 6. Configurando os simuladores no seu Android Studio:
 
 - Acessar Android Studio --> AVD Manager --> Create Virtual Device.
 
-## 7.Executando no seu computador.
+## 7. Executando no seu computador.
 
 - Execute o comando:
 
