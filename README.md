@@ -11,6 +11,14 @@
 
 - Instalar com o executável do Appium.
 
+- Se você tiver o node ou o NPM:
+
+> npm install -g appium 
+
+- Pelo mac você poderá instalar o node pelo brew: 
+
+> brew install node
+
 - Ter as variáveis de ambiente configuradas no seu computador, caso seja Windows.
 
 - O caminho para configurar as variáveis de ambiente é 
