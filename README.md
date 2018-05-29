@@ -1,5 +1,9 @@
 # Exemplo de POC Appium com Ruby Android.
 
+## Instalar o Java e configurando no windows:
+
+- Veja o vídeo do DevMedia (https://www.devmedia.com.br/preparacao-do-ambiente-para-desenvolvimento-em-java/25188) :)
+
 ## Instalar o Android Studio e configurando em todos os sistemas Operacionais:
 
 - Veja o vídeo neste link: (https://developer.android.com/studio/install?hl=pt-br)
