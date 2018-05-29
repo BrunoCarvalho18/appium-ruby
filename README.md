@@ -1,6 +1,6 @@
 # Exemplo de POC Appium com Ruby Android.
 
-## Instalar o Android Studio em todos os sistemas Operacionais:
+## Instalar o Android Studio e configurando em todos os sistemas Operacionais:
 
 - Veja o vídeo neste link: (https://developer.android.com/studio/install?hl=pt-br)
 
