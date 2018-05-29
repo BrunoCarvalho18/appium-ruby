@@ -2,7 +2,7 @@
 
 ## Instalar o Java e configurando no windows:
 
-- Veja o vídeo do DevMedia (https://www.devmedia.com.br/preparacao-do-ambiente-para-desenvolvimento-em-java/25188)   :+1:
+- Veja o post do DevMedia (https://www.devmedia.com.br/preparacao-do-ambiente-para-desenvolvimento-em-java/25188)   :+1:
 
 ## Instalar o Android Studio e configurando em todos os sistemas Operacionais:
 
