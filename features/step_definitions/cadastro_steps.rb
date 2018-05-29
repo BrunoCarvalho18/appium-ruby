@@ -6,9 +6,9 @@ end
 Dado("prencho os campos correpondentes na tela de cadastro") do
   cadastro = Cadastro.new
   cadastro.btn_criarconta
-  cadastro.campo_preencher_nome
-  cadastro.campo_preencher_cpf
-  cadastro.campo_preencher_senha
+  cadastro.campo_preencher_nome(Faker::Name.first_name)
+  cadastro.campo_preencher_cpf(Faker::CPF.numeric)
+  cadastro.campo_preencher_senha(Faker::Internet.password(6,8))
   cadastro.clicar_btn_criar_conta
 end
 
