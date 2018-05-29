@@ -34,6 +34,10 @@
 
 - Veja o vídeo neste link: (https://developer.android.com/studio/install?hl=pt-br)
 
+## Configurando os simuladores no seu Android Studio:
+
+- Acessar Android Studio --> AVD Manager --> Create Virtual Device.
+
 ## Para executar no seu computador.
 
 - Execute o comando:
