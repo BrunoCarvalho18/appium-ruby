@@ -38,7 +38,7 @@
 
 - Acessar Android Studio --> AVD Manager --> Create Virtual Device.
 
-## Para executar no seu computador.
+## Executando no seu computador.
 
 - Execute o comando:
 
