@@ -3,9 +3,13 @@
 ## Configurando variáveis de ambiente no MAC:
 
 > $	vim	.bash_profile		No	vim	teclar	(I)		
+
 > Colar	essas	duas	variáveis		
+
 > $	export	ANDROID_HOME=/Users/{usuario}/Library/An droid/sdk/		
+
 > $	export	PATH=$PATH:$ANDROID_HOME/platform-tools		
+
 > Teclar	(ZZ)	para	sair	e	salvar		$	source	~/.bash_profile
 
 
