@@ -9,6 +9,8 @@
 
 - Ter o Appium instalado em sua máquina, caso não tenha baixe em http://appium.io/
 
+- Instalar com o executável do Appium.
+
 - Ter as variáveis de ambiente configuradas no seu computador, caso seja Windows.
 
 - O caminho para configurar as variáveis de ambiente é 
