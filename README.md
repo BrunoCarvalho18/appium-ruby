@@ -3,6 +3,7 @@
 ## instalando a JDK	
 
 > $ brew	install	android-sdk		
+
 > $	brew	install	android-platform-tools
 
 
