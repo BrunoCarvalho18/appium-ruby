@@ -68,11 +68,11 @@ Painel de Controle > Sistema e Segurança > Sistema > Configurações Avançadas
 
 - Quando o "Servidor" Appium estiver executado note que ele enviará comandos de conexões com API e com os Drivers, quando você executar o comando cucumber ele enviará esses comandos.
 
-- No Cmd ou o Cmder, na pasta que o projeto estiver clonado, execute o comando Cucumber, se o Appium não estiver iniciado ele
+- No Cmd ou o Cmder, na pasta que o projeto estiver clonado, execute o comando "Cucumber", se o Appium não estiver iniciado ele
 apresentará erros.
 
 - Quer Aprender um pouco mais sobre Appium: (http://appium.io/docs/en/commands/mobile-command/), neste link você pode 
-selecionar a linguagem que você deseja.
+selecionar a linguagem que você deseja. :+1:
  
  Boa Sorte :+1:
 
