@@ -81,4 +81,4 @@ selecionar a linguagem que você deseja. :+1:
  Boa Sorte :+1:
 
 
-![alt_text](https://matera.com/br/wp-content/uploads/2015/10/appium_logo-538x294.jpg)
+![alt_text](http://www.mindfiresolutions.com/images/august2012/Appium.jpg)
