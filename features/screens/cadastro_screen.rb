@@ -1,6 +1,6 @@
 class Cadastro <Appium::Driver
 
-#===============================SCREEN===========================================#
+#===============================OBJETOS DA SCREEN===========================================#
     def initialize
       @clicar_criarconta =        "link_signup"
       @elemento_preencher_nome =  "input_name"
