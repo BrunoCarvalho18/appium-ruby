@@ -1,3 +1,4 @@
+require 'cucumber'
 require 'rspec'
 require 'pry'
 require 'appium_lib'
