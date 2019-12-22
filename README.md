@@ -16,7 +16,7 @@
 
 - Colar	essas	duas	variáveis:
 
-> $	export	ANDROID_HOME=/Users/{usuario}/Library/An droid/sdk/		
+> $	export	ANDROID_HOME=/Users/{usuario}/Library/Android/sdk/		
 
 > $	export	PATH=$PATH:$ANDROID_HOME/platform-tools		
 
